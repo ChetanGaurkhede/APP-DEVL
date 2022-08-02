@@ -129,6 +129,7 @@
 .banner {
     text-align: center;
     padding-top: 45vh;
+    word-wrap: break-word;
     color: white;
     font-size: 7em;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
