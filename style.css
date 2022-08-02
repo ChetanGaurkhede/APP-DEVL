@@ -29,9 +29,9 @@
 }
 
 .content {
-    max-width: 100%;
+    max-width: 1500em;
     margin: auto;
-/*     padding: 5vh 10vw; */
+    padding: 5vh 10vw;
     /* padding: 5vh 10vw; */
     display: grid;
     row-gap: 10vh;
