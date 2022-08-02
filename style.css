@@ -78,8 +78,6 @@
 .example{
     font-style: italic;
 }
-.lifecycle{
-    display: inline-flex;
 .navbar {
     position: fixed;
     width: 100%;
